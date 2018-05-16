@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  MccormickRob_CE55
-//
-//  Created by Robert  McCormick on 15/01/2018.
-//  Copyright © 2018 Robert  McCormick. All rights reserved.
-//
+
 
 
 import UIKit
