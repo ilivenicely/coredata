@@ -1,10 +1,4 @@
-//
-//  HIghScoresController.swift
-//  McCormickRobert_CE07
-//
-//  Created by Robert  McCormick on 26/01/2018.
-//  Copyright © 2018 Robert  McCormick. All rights reserved.
-//
+ 
 
 import Foundation
 
